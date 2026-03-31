@@ -1,0 +1,7 @@
+Verna,1299,Manual,4500km,https://stat.overdrive.in/wp-content/odgallery/2020/03/56231_Hyundai_verna_001.jpg
+Fortuner,1456,Automatic,78000km,https://imgcdn.zigwheels.ph/large/gallery/color/30/1110/toyota-fortuner-color-810021.jpg
+Hilux,8964,Manual,20000km,https://tse2.mm.bing.net/th/id/OIP.Jn8xl04odwjEN0mwjSO5jgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3
+Baleno,7895,Automatic,48600km,https://tse2.mm.bing.net/th/id/OIP.ugRToNP39zGXfCcrG_LLJwHaDs?rs=1&pid=ImgDetMain&o=7&rm=3
+Ciaz,3695,Automatic,48564km,https://tse2.mm.bing.net/th/id/OIP.9fZpb05q_QvoshrtRdmV4wHaE8?rs=1&pid=ImgDetMain&o=7&rm=3
+Harrier,8564,Manual,8000km,https://cdn1.acedms.com/uploads/category/Tata/20231108065838000000-3788000086359274497.jpg
+bolero,9455,Manual,4862km,https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/210991/bolero-right-front-three-quarter.jpeg?isig=0&q=80
