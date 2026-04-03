@@ -34,7 +34,8 @@
         <h1 class="login-title">Create your account</h1>
         <p class="login-lead">Pick Buyer or Seller, then set up your login details.</p>
 
-        <form class="login-form" action="#" method="post">
+        <form class="login-form" action="acc_type.php" method="post">
+          <input type="hidden" name="form_type" value="signup" />
           <fieldset class="role-fieldset" aria-label="Account type">
             <div class="role-switch" role="radiogroup" aria-label="Buyer or seller">
               <label class="role-option">
@@ -75,7 +76,6 @@
             <input type="checkbox" name="terms" required />
             <span>I agree to the terms of use</span>
           </label>
-
           <button class="primary-button full" type="submit">Create account</button>
           <p class="form-note login-note">
             Already have an account? <a class="muted-link" href="login.php">Log in</a> ·

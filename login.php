@@ -34,7 +34,26 @@
         <h1 class="login-title">Sign in to your account</h1>
         <p class="login-lead">Choose how you use Ancient Motor, then enter your details.</p>
 
-        
+        <form class="login-form" action="acc_type.php" method="post">
+          <input type="hidden" name="form_type" value="login" />
+
+          <fieldset class="role-fieldset" aria-label="Account type">
+            <div class="role-switch" role="radiogroup" aria-label="Buyer or seller">
+              <label class="role-option">
+                <input type="radio" name="role" value="buyer" checked />
+                <span class="role-text">
+                  <span class="role-label">Buyer</span>
+                  <span class="role-hint">Browse &amp; buy cars</span>
+                </span>
+              </label>
+              <label class="role-option">
+                <input type="radio" name="role" value="seller" />
+                <span class="role-text">
+                  <span class="role-label">Seller</span>
+                  <span class="role-hint">List &amp; sell cars</span>
+                </span>
+              </label>
+            </div>
           </fieldset>
 
           <label>
